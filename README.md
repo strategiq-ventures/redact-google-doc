@@ -31,5 +31,5 @@ The result: a doc that shows the level of work done and the layout, but has zero
 
 ## Necessary CYA legalese
 This is not a compliance tool, official legal redaction, or certified to meet any privacy standard.  
-Do not use this for HIPAA, GDPR, state secrets, or hiding the identity of the real Batman.  
+Do not use this for HIPAA, GDPR, state secrets, or hiding the real identity of Batman.  
 It’s just a quick way to send a “looks like the real thing” sample without giving away your actual work.
