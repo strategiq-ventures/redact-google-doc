@@ -7,7 +7,7 @@ Most “redaction” you see in shared docs is just black boxes over text, which
 ## What this script does
 - Makes a copy of the doc (leaves your original alone)
 - Keeps all headings visible
-- Randomly redacts about two‑thirds of the non‑heading words
+- Randomly redacts about two‑thirds of the non‑heading words by **replacing** them, not just covering them up.
 - Never shows more than three visible words in a row
 - Gives the copy a timestamped filename so you can keep versions straight
 - Adds a "Redact" menu option in Google Docs to execute this script in one click
