@@ -25,7 +25,7 @@ The result: a doc that shows the level of work done and the layout, but has zero
    - It will prompt you to authorize the script. Click through and allow access.  
 6. Close the Apps Script tab and **re‑open your Google Doc**.  
 7. You’ll now see a **Redact** menu at the top. Choose **Create Redacted Copy**.  
-8. A new copy will be created in the same folder, redacted and watermarked, with your original untouched.
+8. A new redacted copy will be created in the same folder, with your original untouched.
 
 ---
 
