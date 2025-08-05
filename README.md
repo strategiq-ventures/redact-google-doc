@@ -2,7 +2,7 @@
 
 I had a situation where I needed to show a prospective client the *effort* and *structure* of a deliverable without giving away the actual content.
 
-Most “redaction” you see in shared docs is just black boxes over text, which anyone can strip out in seconds. I needed something destructive: once it’s redacted, it’s gone.
+Most “redaction” you see in shared docs is just black boxes over text, which anyone halfway tech savvy can strip out in seconds. I needed something destructive: once it’s redacted, it’s gone.
 
 ## What this script does
 - Makes a copy of the doc (leaves your original alone)
