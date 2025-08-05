@@ -1,16 +1,16 @@
 # Google Docs Redaction Tool
 
-Had a situation where I needed to show a prospective client the *effort* and *structure* of a deliverable without giving away the actual content.
+I had a situation where I needed to show a prospective client the *effort* and *structure* of a deliverable without giving away the actual content.
 
-Most “redaction” you see in shared docs is just black boxes over text — which anyone can strip out in seconds. I needed something destructive: once it’s redacted, it’s gone.
+Most “redaction” you see in shared docs is just black boxes over text, which anyone can strip out in seconds. I needed something destructive: once it’s redacted, it’s gone.
 
 ## What this script does
 - Makes a copy of the doc (leaves your original alone)
 - Keeps all headings visible
 - Randomly redacts about two‑thirds of the non‑heading words
 - Never shows more than three visible words in a row
-- Adds a “Sample – Full Version Available on Engagement” watermark on every page
 - Gives the copy a timestamped filename so you can keep versions straight
+- Adds a "Redact" menu option in Google Docs to execute this script in one click
 
 The result: a doc that shows the level of work done and the layout, but has zero usable content.
 
