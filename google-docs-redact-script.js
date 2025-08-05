@@ -6,7 +6,6 @@
  * - Preserves all heading text
  * - Randomly redacts ~2/3 of non-heading words
  * - Ensures no more than 3 visible words in a row
- * - Adds a watermark on every page
  * - Appends " - REDACTED - [timestamp]" to the filename
  * 
  * For demo/proof-of-work purposes only — not a legal/compliance redaction tool.
